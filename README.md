@@ -147,7 +147,7 @@ This sample project is licensed under the MIT License.
 
 ## 🙋 Support
 
-For issues, contact \[[your-email@example.com](mailto:your-email@example.com)] or raise a GitHub issue.
+For issues, contact \[[unusual.terrain.9@gmail.com](mailto:unusual.terrain.9@gmail.com)] or raise a GitHub issue.
 
 ---
 
