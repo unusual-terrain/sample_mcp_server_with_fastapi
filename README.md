@@ -47,7 +47,7 @@ cd sample_mcp_client_with_fastapi
 ### 2. Install Dependencies
 
 ```bash
-pip install -r requirements.txt
+uv sync
 ```
 
 
